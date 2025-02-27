@@ -9,3 +9,6 @@ class Solution:
         
 # simplified version
 # return len(set(nums)) < len(nums)
+        
+# Time Complexity: O(n)
+# Space Complexity: O(n)
